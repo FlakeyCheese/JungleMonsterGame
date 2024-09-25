@@ -1,0 +1,100 @@
+Yeti 
+A hairy, ape-like creature from the Himalayas.
+true
+5
+10
+Balrog 
+A Balrog is a powerful, fiery demon.
+false
+18
+18
+Wendigo 
+A malevolent spirit from Algonquian folklore that grows insatiable hunger.
+false
+8
+6
+Chupacabra 
+A creature from Latin American folklore known for attacking livestock.
+false
+9
+5
+Banshee 
+A female spirit in Irish folklore that wails to foretell death.
+true
+14
+3
+Gremlin
+A mischievous creature from folklore that causes trouble.
+true
+18
+2
+Gorgon 
+A creature from Greek mythology with snakes for hair and the power to turn people to stone.
+false
+2
+16
+Kraken
+A giant sea monster from Norse mythology.
+false
+4
+15
+Phoenix 
+A mythical bird that regenerates itself by burning and rising from the ashes.
+true
+5
+6
+Unicorn
+A mythical creature with a single horn on its forehead.
+true
+13
+12
+Centaur
+A half-human, half-horse creature from Greek mythology.
+true
+12
+10
+Minotaur
+A half-human, half-bull creature from Greek mythology.
+false
+12
+17
+Cerberus
+A three-headed dog guarding the underworld in Greek mythology.
+true
+8
+8
+Hydra
+A multi-headed serpent from Greek mythology.
+false
+10
+16
+Basilisk
+A mythical creature that can kill with its gaze.
+false
+6
+14
+Chimera
+A fire-breathing monster with a lion's head, a goat's body, and a serpent's tail.
+false
+14
+16
+Pegasus
+A winged horse from Greek mythology.
+true
+16
+10
+Griffin
+A mythical creature with the body of a lion and the head and wings of an eagle.
+false
+8
+12
+Pixie
+A small, mischievous fairy-like creature.
+true
+18
+2
+Troll
+A large, ugly, and often stupid creature from Scandinavian folklore.
+false
+2
+18
